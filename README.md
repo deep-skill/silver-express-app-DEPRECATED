@@ -1,8 +1,12 @@
-# silver-express-app
-Silver Express is a taxicab company, this repository save our App.
+# ⚠️ REPOSITORIO DEPRECADO / DEPRECATED
 
-### 🖥️ Web
+Este repositorio ya no se mantiene.
 
-```sh
-flutter run -d chrome --web-port 3000 --web-renderer html
-```
+Fue la app móvil de Silver Express (empresa de taxis), construida con Flutter.
+
+---
+
+## Silver Express App (archived)
+
+- **Stack:** Flutter, Dart
+- **Estado:** Deprecado, reemplazado por silver-app
